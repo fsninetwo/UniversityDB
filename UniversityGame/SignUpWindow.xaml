@@ -1,0 +1,32 @@
+﻿<Window x:Class="UniversityGame.SignUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UniversityGame"
+        mc:Ignorable="d"
+        Title="SignUpWindow" Height="190" Width="300">
+    <Grid>
+        <Grid Margin="15,5,10,40">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="15*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="53*"/>
+                <RowDefinition Height="54*"/>
+                <RowDefinition Height="53*"/>
+                <RowDefinition Height="54*"/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="nameField" Grid.Column="1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Height="25"/>
+            <TextBox x:Name="passwordField" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Height="25"/>
+            <TextBox x:Name="emailField" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Height="25" />
+            <ComboBox x:Name="groupChoice" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="173" Height="25"/>
+            <Label x:Name="label0" Content="Name" HorizontalAlignment="Right" VerticalAlignment="Top" Width="83" Height="25"/>
+            <Label x:Name="label1" Content="Password" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="83" Height="25" Grid.Row="1" Margin="0,0,0,4"/>
+            <Label x:Name="label2" Content="Email" HorizontalAlignment="Right" Grid.Row="2" VerticalAlignment="Bottom" Width="83" Height="25" Margin="0,0,0,3"/>
+            <Label x:Name="label3" Content="Group" HorizontalAlignment="Right" Grid.Row="3" VerticalAlignment="Bottom" Width="83" Height="25" Margin="0,0,0,3"/>
+        </Grid>
+        <Button x:Name="login" Content="Register" HorizontalAlignment="Left" Margin="81,119,0,0" VerticalAlignment="Top" Width="126" Click="login_Click"/>
+    </Grid>
+</Window>
