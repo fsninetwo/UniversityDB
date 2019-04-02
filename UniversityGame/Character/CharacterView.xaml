@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="UniversityGame.Character.CharacterView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UniversityGame.Character"
+             mc:Ignorable="d" 
+             d:DesignHeight="380" Width="780">
+    <Grid>
+        <ListView x:Name="characterTable" Margin="0,0,280,0" MouseDoubleClick="characterTable_MouseDoubleClick" MouseLeftButtonDown="characterTable_MouseLeftButtonDown">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding id}" Width="30"/>
+                    <GridViewColumn Header="Nickname" DisplayMemberBinding="{Binding nickname}" Width="80"/>
+                    <GridViewColumn Header="Password" DisplayMemberBinding="{Binding password}" Width="80"/>
+                    <GridViewColumn Header="Email" DisplayMemberBinding="{Binding email}" Width="100"/>
+                    <GridViewColumn Header="Registration" DisplayMemberBinding="{Binding registration}" Width="100"/>
+                    <GridViewColumn Header="Admin" DisplayMemberBinding="{Binding admin}" Width="50"/>
+                    <GridViewColumn Header="Group" DisplayMemberBinding="{Binding group}" Width="50"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Grid Margin="538,10,22,228">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="15*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="nicknameField" Grid.Column="1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Height="25"/>
+            <TextBox x:Name="passwordField" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Height="25"/>
+            <TextBox x:Name="emailField" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Height="25"/>
+            <ComboBox x:Name="groupChoice" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="150" Height="25"/>
+            <CheckBox x:Name="admin" Grid.Column="1" HorizontalAlignment="Left" Margin="0,2,0,0" Grid.Row="4" VerticalAlignment="Top" RenderTransformOrigin="0.375,2.4"/>
+            <Label x:Name="label" Content="Nickname" HorizontalAlignment="Right" VerticalAlignment="Top" Width="70" Height="25"/>
+            <Label x:Name="label1" Content="Password" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70" Height="25" Grid.Row="1" Margin="0,0,0,3"/>
+            <Label x:Name="label2" Content="Email" HorizontalAlignment="Right" Grid.Row="2" VerticalAlignment="Bottom" Width="70" Height="25" Margin="0,0,0,2"/>
+            <Label x:Name="label3" Content="Group" HorizontalAlignment="Right" Grid.Row="3" VerticalAlignment="Bottom" Width="70" Height="25" Margin="0,0,0,3"/>
+            <Label x:Name="label4" Content="Admin" HorizontalAlignment="Right" Grid.Row="4" VerticalAlignment="Bottom" Width="70" Height="25" Margin="0,0,0,4"/>
+        </Grid>
+        <Grid Margin="505,210,5,40">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button x:Name="addButton" Content="Add Data" Click="addButton_Click"/>
+            <Button Grid.Row="1" x:Name="deleteButton" Content="Delete Data" Click="deleteButton_Click"/>
+            <Button Grid.Row="2" x:Name="updateButton" Content="Update Data" Click="updateButton_Click"/>
+            <Button Grid.Row="3" x:Name="updateField" Content="Make Report" Click="updateField_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>
