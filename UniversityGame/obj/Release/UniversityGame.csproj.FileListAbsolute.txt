@@ -1,0 +1,104 @@
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\UniversityGame.exe.config
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\UniversityGame.exe
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\UniversityGame.pdb
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\Npgsql.dll
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\System.ValueTuple.dll
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\Npgsql.pdb
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\Npgsql.xml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\bin\Release\System.ValueTuple.xml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.csprojResolveAssemblyReference.cache
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Character\CharacterView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Classform\ClassformView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Department\DepartmentView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Group\GroupView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\LoginWindow.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\MainWindow.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Faculty\FacultyView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Perfomance\PerfomanceView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Schedule\ScheduleView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Semestor Subject\SemestorSubjectView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\SignUpWindow.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Skill\SkillView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Stress\StressView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Subject Structure\SubjectStructureView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Subject\SubjectView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\App.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame_MarkupCompile.cache
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame_MarkupCompile.lref
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Character\CharacterView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Classform\ClassformView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Department\DepartmentView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Group\GroupView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\LoginWindow.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\MainWindow.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Faculty\FacultyView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Perfomance\PerfomanceView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Schedule\ScheduleView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Semestor Subject\SemestorSubjectView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\SignUpWindow.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Skill\SkillView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Stress\StressView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Subject Structure\SubjectStructureView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\Subject\SubjectView.baml
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.g.resources
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.Properties.Resources.resources
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.csproj.GenerateResource.Cache
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.exe
+C:\Users\IK\OneDrive\Study\Course Work\New folder\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.pdb
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\UniversityGame.exe.config
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.exe
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.pdb
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\UniversityGame.exe
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\UniversityGame.pdb
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\Npgsql.dll
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\System.ValueTuple.dll
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\Npgsql.pdb
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\Npgsql.xml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\bin\Release\System.ValueTuple.xml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.csprojResolveAssemblyReference.cache
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Character\CharacterView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Classform\ClassformView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Department\DepartmentView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Group\GroupView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\LoginWindow.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\MainWindow.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Faculty\FacultyView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Perfomance\PerfomanceView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Schedule\ScheduleView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Semestor Subject\SemestorSubjectView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\SignUpWindow.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Skill\SkillView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Stress\StressView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Subject Structure\SubjectStructureView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Subject\SubjectView.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\App.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame_MarkupCompile.cache
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame_MarkupCompile.lref
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Character\CharacterView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Classform\ClassformView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Department\DepartmentView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Group\GroupView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\LoginWindow.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\MainWindow.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Faculty\FacultyView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Perfomance\PerfomanceView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Schedule\ScheduleView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Semestor Subject\SemestorSubjectView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\SignUpWindow.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Skill\SkillView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Stress\StressView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Subject Structure\SubjectStructureView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\Subject\SubjectView.baml
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.g.resources
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.Properties.Resources.resources
+C:\Users\IK\OneDrive\Study\Course Work\UniversityGame - Admin\UniversityGame\obj\Release\UniversityGame.csproj.GenerateResource.Cache
